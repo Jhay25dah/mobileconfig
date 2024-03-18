@@ -15,7 +15,7 @@
 				<true/>
 				<key>AllowedCaptiveNetworkPlugins</key>
 				<array/>
-				<key>ServiceExceptions</key>
+				<key>KeepAlive</key>
 				<array/>
 				<key>TunnelConfigurations</key>
 				<array>
