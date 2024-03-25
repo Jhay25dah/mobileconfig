@@ -6,6 +6,7 @@
 	<true/>
 	<key>PayloadContent</key>
 	<array>
+REQUIRES supervised mode in order for this profile to work.</string> </array>
 		<dict>
 			<key>PayloadDescription</key>
 			<string>Configures passcode settings</string>
