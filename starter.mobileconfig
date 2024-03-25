@@ -90,7 +90,7 @@
 			<key>allowAppCellularDataModification</key>
 			<true/>
 			<key>allowAppInstallation</key>
-			<true/>
+			<false/>
 			<key>allowAppRemoval</key>
 			<true/>
 			<key>allowAssistant</key>
